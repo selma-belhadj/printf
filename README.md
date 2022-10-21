@@ -1,4 +1,5 @@
-## _printf()
+# printf (Foundations - Low level programming & Algorithm)
+
 > In this project, we recreated a mini-verison of the ```printf``` function found in
 > the ```stdio.h``` library in the C programming language. This function allows
 > us to print any argument given to the standard output or terminal and similar
