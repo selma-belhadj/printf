@@ -26,7 +26,7 @@ $ git clone git@github.com:selma-belhadj/printf.git
 $ cd printf
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o printf
 $ ./printf
-
+```
 ## Authors
 
 👤 **Selma Belhadj**
